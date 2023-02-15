@@ -8,18 +8,20 @@ This repository contains an implementation of basic image processing operations 
 
 The following is a list of [point](https://homepages.inf.ed.ac.uk/rbf/HIPR2/pntops.htm) and [area](https://homepages.inf.ed.ac.uk/rbf/HIPR2/morops.htm) image processing operations considered in this work and benchmarked on [Avnet Zedboard Development Kit](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/zedboard/) (Xilinx Zynq 7000 SoC).
 
-## List of IMage Processing Operations
+## List of Image Processing Operations
 <p align="justify">
 
 ### Point Operations
 1. Contrast
 2. Threshold
 3. Gradient
-
 ### Area Operations
 1. Gaussian Filter
 2. Sobel Filters
 3. Morphology Filters (Erosion, Dilation)
+  
+## Usage
+Run the ../Benchmarks/TimeMeasurement.c
 
 ## Important References
 <p align="justify">
