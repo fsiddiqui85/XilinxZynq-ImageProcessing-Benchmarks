@@ -1,4 +1,4 @@
-# Benchamrking Image Processing Operations
+# Benchmarking Image Processing Operations
 
 <p align="justify">
 
