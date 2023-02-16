@@ -1,4 +1,4 @@
-# Benchmarking Image Processing Operations
+# Benchmark: Image Processing Operations on Arm Cortex-A9 in Xilinx Zynq 7000 SoC
 
 <p align="justify">
 
